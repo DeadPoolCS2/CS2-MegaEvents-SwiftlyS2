@@ -1,0 +1,13 @@
+C:\Users\Marian\Documents\GitHub\ZombieOutstandingCS2\build\net10.0\resources\translations\en.jsonc
+C:\Users\Marian\Documents\GitHub\ZombieOutstandingCS2\build\net10.0\configs\ZPLMegaEventsCFG.jsonc
+C:\Users\Marian\Documents\GitHub\ZombieOutstandingCS2\build\net10.0\ZPLMegaEvents.deps.json
+C:\Users\Marian\Documents\GitHub\ZombieOutstandingCS2\build\net10.0\ZPLMegaEvents.dll
+C:\Users\Marian\Documents\GitHub\ZombieOutstandingCS2\build\net10.0\ZPLMegaEvents.pdb
+C:\Users\Marian\Documents\GitHub\ZombieOutstandingCS2\src\zpl_megaevents\obj\Release\net10.0\ZPLMegaEvents.csproj.AssemblyReference.cache
+C:\Users\Marian\Documents\GitHub\ZombieOutstandingCS2\src\zpl_megaevents\obj\Release\net10.0\ZPLMegaEvents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marian\Documents\GitHub\ZombieOutstandingCS2\src\zpl_megaevents\obj\Release\net10.0\ZPLMegaEvents.csproj.CoreCompileInputs.cache
+C:\Users\Marian\Documents\GitHub\ZombieOutstandingCS2\src\zpl_megaevents\obj\Release\net10.0\ZPLMegaEvents.sourcelink.json
+C:\Users\Marian\Documents\GitHub\ZombieOutstandingCS2\src\zpl_megaevents\obj\Release\net10.0\ZPLMegaEvents.dll
+C:\Users\Marian\Documents\GitHub\ZombieOutstandingCS2\src\zpl_megaevents\obj\Release\net10.0\refint\ZPLMegaEvents.dll
+C:\Users\Marian\Documents\GitHub\ZombieOutstandingCS2\src\zpl_megaevents\obj\Release\net10.0\ZPLMegaEvents.pdb
+C:\Users\Marian\Documents\GitHub\ZombieOutstandingCS2\src\zpl_megaevents\obj\Release\net10.0\ref\ZPLMegaEvents.dll
